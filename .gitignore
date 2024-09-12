@@ -1,0 +1,35 @@
+# Ignore temporary files
+*.log
+*.temp
+*.cache
+
+# Ignore Unreal Engine files
+*.pdb
+*.obj
+*.sdf
+*.suo
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.ipch
+*.aps
+*.ncb
+*.ilk
+
+# Ignore binaries, intermediates, and saved files
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+.vscode/
+
+# Ignore build files
+*.xcodeproj
+*.xcworkspace
+*.uprojectdirs
+
+# Ignore auto-generated config files
+*.ini
+*.csproj
+*.sln
+*.userprefs
